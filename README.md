@@ -1,3 +1,3 @@
 # tugasakhir_pemula
 
-A new Flutter project.
+project akhir dari course dicoding basic flutter
